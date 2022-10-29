@@ -1,8 +1,14 @@
 import React from 'react';
-import Form from './components/Form/index';
+import Counter from './components/Counter';
+import Nav from './components/Nav';
 
 function App() {
-  return <Form />;
+  return (
+    <div>
+      <Nav />
+      <Counter />
+    </div>
+  );
 }
 
 export default App;
