@@ -1,0 +1,26 @@
+/*
+    Created:    08/28/2022 
+    Programmer: Brian Zoulko
+    Notes:      This module is used to identify where the placement of images go on the web-page.
+    
+    Modification
+    ============
+    08/28/20022 Brian Zoulko    built css module to help facilitate in portfolio development.
+
+*/
+
+img {
+	display: grid;
+	gap: 10px;
+	width: 100%;
+    height: auto; 
+    margin-top: 20px;    
+    margin-bottom: -15px;
+}
+
+.image-background {
+	/* background-image: url('/images/portfolio_screen_backdrop.jpg'); */
+	background-size: 100%;
+	background-repeat: repeat;
+	background-position: center;
+}
