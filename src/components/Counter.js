@@ -1,10 +1,7 @@
-// First we import `useState` with React so that we can take advantage of the hook
+// Import `useState` with React to take advantage of the hook.
 import React, { useState } from 'react';
 
 export default function Counter() {
-  // To set a state variable using `useState`, we give our variable a name of `count`.
-  // We also set the name of the function that will update `count`. We called it `setCount`.
-  // useState accepts only one argument - the initial value of the state variable.
   let [count, setCount] = useState(0);
 
   // This is a handler that we will reference in our `onClick` attribute later

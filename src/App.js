@@ -1,11 +1,11 @@
 import React from 'react';
 import Counter from './components/Counter';
-import Nav from './components/Nav';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div>
-      <Nav />
+      <Navbar />
       <Counter />
     </div>
   );
