@@ -28,6 +28,81 @@
   color: #61dafb;
 }
 
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+}
+
+/* **************************************** */
+
+/* Define display area. */
+.grid-container {
+  display: grid;
+}
+
+
+/* Define the format of cell(s) within the container. */
+.grid-cells {
+  text-align: center;
+  font-size: 30px;
+  background-color: white;
+}
+
+/* Cell positions inside a grid. Current use in portfolio main section. */
+.cell-1 {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 1;    
+}
+.cell-2 {
+  gap: 15px;
+  padding: 15px;
+  background-color: black;
+  grid-column: 3;
+  grid-row: 1 / span 2;    
+}
+.cell-3 {
+  grid-column: 1 / span 2;
+  grid-row: 2 / span 2;
+}
+.cell-4 {
+  grid-column: 1 / span 3;
+  grid-row: 3 / span 3;
+}
+
+
+/* Cell positions inside a grid. Current use in WORK section of the portfolio. */
+.cell-c1-r1 {
+  grid-column: 1;
+  grid-row: 1;
+}
+.cell-c2-r1 {
+  grid-column: 2 ;
+  grid-row: 1;
+}
+.cell-c1-r2 {
+  grid-column: 1 ;
+  grid-row: 2;
+}
+.cell-c2-r2 {
+  grid-column: 2 ;
+  grid-row: 2;
+}
+
+/* Highlight cell when cursor hovers over */
+.cell-highlight:hover {
+  /* box-shadow: inset 0px 0px 8px lightblue, 0 0 15px darkblue; */
+  /* border-radius: .3rem;
+  box-shadow: 0 0rem 0rem rgba(161, 160, 132, 0.8), 5px 0.15rem 0.15rem rgba(161, 160, 132, 0.8); */
+  text-decoration: underline;
+}
+
+/* **************************************** */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

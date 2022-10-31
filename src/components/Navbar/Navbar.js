@@ -1,12 +1,12 @@
 import React from 'react';
+import { NavbarLink } from "./NavbarStyles";
+
+import '../App.css';
 
 // Array of navigation bar items.
 const navBarItems = ["About", "Work", "Resume", "Contact"];
 
-export default function Nav() {
-  const darkTheme = {
-    color: "white",
-  };
+export default function Navbar() {
 
   const authorStyle = {
     color: "rgba(249, 248, 207, 0.8)",
@@ -21,9 +21,7 @@ export default function Nav() {
   };
 
   const linkStyle = {
-    color: "white",
-    paddingRight: "30px",
-    fontSize: "18px",
+    paddingRight: "30px"
   };
 
   const developerStyle = {
@@ -34,7 +32,7 @@ export default function Nav() {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg nav-header navbar-dark bg-dark" style={darkTheme}>
+    <nav className="navbar navbar-expand-lg nav-header navbar-dark bg-dark" style={{color: "white"}}>
       
       {
         // Add AUTHOR to left side of navigation bar.
@@ -59,7 +57,7 @@ export default function Nav() {
             return (
               <ul className='nav navbar-nav'>
                 <li className='nav-item ms-4'>
-                  <a className="nav-link nav-text" aria-current="page" style={linkStyle} href={ref}>{text}</a>
+                  <NavbarLink className="nav-link nav-text cell-highlight" aria-current="page" style={linkStyle} href={ref}>{text}</NavbarLink>
                 </li>
               </ul>
             );
