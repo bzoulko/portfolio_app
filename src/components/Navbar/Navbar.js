@@ -1,10 +1,11 @@
 import React from 'react';
-import { NavbarLink } from "./NavbarStyles";
+import ClipPhoto from '../ClipPhoto';
+//import { NavbarLink } from "./NavbarStyles";
 
-import '../App.css';
+import '../../App.css';
 
 // Array of navigation bar items.
-const navBarItems = ["About", "Work", "Resume", "Contact"];
+//const navBarItems = ["About", "Work", "Resume", "Contact"];
 
 export default function Navbar() {
 
@@ -31,6 +32,11 @@ export default function Navbar() {
     justifyContent: "center"
   };
 
+  const clipStyle = {
+    display: "flex",
+    justifyContent: "right"
+  };
+
   return (
     <nav className="navbar navbar-expand-lg nav-header navbar-dark bg-dark" style={{color: "white"}}>
       
@@ -48,7 +54,11 @@ export default function Navbar() {
         </div>
       }
 
-      <div className="collapse navbar-collapse" id="navbarNavDropdown">
+      {
+        <div><ClipPhoto /></div>
+      }
+
+      {/* <div className="collapse navbar-collapse" id="navbarNavDropdown">
         {
           // Add navigation bar items to html.
           navBarItems.map((barItem) => {
@@ -63,7 +73,7 @@ export default function Navbar() {
             );
           })          
         }
-      </div>
+      </div> */}
     </nav>
     
     // <nav className="navbar navbar-expand-lg navbar-light bg-light">
