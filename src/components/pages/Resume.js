@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Work() {
+export default function Resume() {
     return (
         <div className='pt-2 mt-2'>
-            <h1>Work Page</h1>
+            <h1>Resume Page</h1><hr></hr>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
                 velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

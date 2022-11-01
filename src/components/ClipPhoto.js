@@ -10,6 +10,7 @@ export default function ClipPhoto() {
                     height: "auto",                    
                     paddingLeft: "0px",
                     paddingRight: "0px",
+                    justifyContent: "flex-end",
                     border: "1px solid rgba(161, 160, 132, 0.8)",
                     borderRadius: ".3rem",
                     boxShadow: "0 0rem 0rem rgba(161, 160, 132, 0.8), 5px 0.15rem 0.15rem rgba(161, 160, 132, 0.8)"                

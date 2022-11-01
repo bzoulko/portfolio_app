@@ -1,10 +1,10 @@
 import React from 'react';
 
-export default function Home() {
+export default function Portfolio() {
   
   return (
     <div className='pt-2 mt-2'>
-      <h1>Home Page</h1>
+      <h1>Portfolio Page</h1><hr></hr>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

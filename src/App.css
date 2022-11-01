@@ -38,6 +38,24 @@
   color: #333;
 }
 
+.image-background {
+  background-image: url('./images/portfolio_screen_backdrop.jpg');
+	background-size: 100%;
+	background-repeat: repeat;
+	background-position: center;
+}
+
+.Text {
+  font-size: calc(5px + 2vmin);
+  width: 50vw;
+  padding: 10px;
+  text-align: left;
+}
+
+.tab { 
+  margin-left: 40px; 
+}
+
 /* **************************************** */
 
 /* Define display area. */
