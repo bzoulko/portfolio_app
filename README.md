@@ -47,3 +47,8 @@ This program is a great example of what I can do as a web developer, it showcase
 
 
 ### Screen Shots.
+![image](https://user-images.githubusercontent.com/108200823/199511978-4f57f8d5-95e1-4909-a261-49041fbf7673.png)
+![image](https://user-images.githubusercontent.com/108200823/199512074-e1aeb394-af02-41f9-a0a8-ecb0af7cea60.png)
+![image](https://user-images.githubusercontent.com/108200823/199512153-ce07560a-fa06-43ec-9c43-21f31faa49e1.png)
+![image](https://user-images.githubusercontent.com/108200823/199512244-fc70a115-3761-4652-b23d-b4f35f5a424b.png)
+![image](https://user-images.githubusercontent.com/108200823/199512311-ab306f1a-0569-40f2-8e7f-bfac2c69cde2.png)
