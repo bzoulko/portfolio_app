@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f2636f7c.css",
+    "main.js": "/react-gh-pages/static/js/main.29a33c0e.js",
+    "static/js/787.30237536.chunk.js": "/react-gh-pages/static/js/787.30237536.chunk.js",
+    "static/media/InvestmentWatchlist-p1.png": "/react-gh-pages/static/media/InvestmentWatchlist-p1.2fe6005f2bec4283d2be.png",
+    "static/media/BriansWorking.gif": "/react-gh-pages/static/media/BriansWorking.f4d9b49070ddfbf74a27.gif",
+    "static/media/IMG_20220827_155309.jpg": "/react-gh-pages/static/media/IMG_20220827_155309.46d37643eb1d386f5c6e.jpg",
+    "static/media/WeatherDashboard.png": "/react-gh-pages/static/media/WeatherDashboard.dc5b64e2e60506c5d7d8.png",
+    "static/media/InvestmentWatchlist-p2.png": "/react-gh-pages/static/media/InvestmentWatchlist-p2.5b3cca6af3ca8f079686.png",
+    "static/media/InvestmentWatchlist-p3.png": "/react-gh-pages/static/media/InvestmentWatchlist-p3.b6f532f4323aa2346e7d.png",
+    "static/media/BriansResume.png": "/react-gh-pages/static/media/BriansResume.73c2cd037ddc24f25211.png",
+    "static/media/PasswordGenerator.png": "/react-gh-pages/static/media/PasswordGenerator.629b4223d8cbce4af9d6.png",
+    "static/media/CorgisMessenger-p5.png": "/react-gh-pages/static/media/CorgisMessenger-p5.0def5295dd30a7be3968.png",
+    "static/media/CorgisMessenger-p2.png": "/react-gh-pages/static/media/CorgisMessenger-p2.9f757014ad975c82108d.png",
+    "static/media/CorgisMessenger-p4.png": "/react-gh-pages/static/media/CorgisMessenger-p4.ea3bf724132c76eafb47.png",
+    "static/media/CorgisMessenger-p3.png": "/react-gh-pages/static/media/CorgisMessenger-p3.f250759d931783302a48.png",
+    "static/media/NoteTaker-p1.png": "/react-gh-pages/static/media/NoteTaker-p1.80c70ad630981b5cbfca.png",
+    "static/media/CorgisMessenger-p1.png": "/react-gh-pages/static/media/CorgisMessenger-p1.f390e7051735534be119.png",
+    "static/media/NoteTaker-p2.png": "/react-gh-pages/static/media/NoteTaker-p2.d5e936358f0651054347.png",
+    "static/media/NoteTaker-p3.png": "/react-gh-pages/static/media/NoteTaker-p3.49ed9709315c9aa0b2e7.png",
+    "static/media/PWA-TextEditor.png": "/react-gh-pages/static/media/PWA-TextEditor.66fc607df086326c637e.png",
+    "static/media/NoteTaker-p4.png": "/react-gh-pages/static/media/NoteTaker-p4.81dac92df09dc9681f07.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.f2636f7c.css.map": "/react-gh-pages/static/css/main.f2636f7c.css.map",
+    "main.29a33c0e.js.map": "/react-gh-pages/static/js/main.29a33c0e.js.map",
+    "787.30237536.chunk.js.map": "/react-gh-pages/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2636f7c.css",
+    "static/js/main.29a33c0e.js"
+  ]
+}
