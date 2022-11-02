@@ -6,6 +6,7 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Photo from './Photo';
 import ClipPhoto from './ClipPhoto';
+import '../App.css';
 import { MDBCol, MDBContainer, MDBRow } from "mdbreact";
 
 export default function Navigation() {
@@ -23,7 +24,7 @@ export default function Navigation() {
           <MDBContainer className="text-center text-md-left">
             <MDBRow>
               <MDBCol><Portfolio /></MDBCol>
-              <MDBCol><ClipPhoto /></MDBCol>
+              <MDBCol className='center'><ClipPhoto /></MDBCol>
             </MDBRow>
           </MDBContainer >
         </div>;
@@ -71,7 +72,7 @@ export default function Navigation() {
         <MDBContainer className="text-center text-md-left">
           <MDBRow>
             <MDBCol><About /></MDBCol>
-            <MDBCol><Photo /></MDBCol>
+            <MDBCol className='center'><Photo /></MDBCol>
           </MDBRow>
         </MDBContainer >
       </div>;

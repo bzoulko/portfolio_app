@@ -56,6 +56,13 @@
   margin-left: 40px; 
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  height: 100%;
+  padding: 20px;
+}
+
 /* **************************************** */
 
 /* Define display area. */

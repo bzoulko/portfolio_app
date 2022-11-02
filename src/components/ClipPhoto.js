@@ -6,7 +6,7 @@ export default function ClipPhoto() {
         <a>
             <img className='mt-0'
                 style={{
-                    width: "20%",
+                    width: "100%",
                     height: "auto",                    
                     paddingLeft: "0px",
                     paddingRight: "0px",
