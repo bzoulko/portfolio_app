@@ -40,7 +40,8 @@ export default function Navigation() {
         <div className="square bg-primary rounded-bottom">
           <MDBContainer className="text-center text-md-left">
             <MDBRow>
-              <Contact />
+            <MDBCol><Contact /></MDBCol>
+              <MDBCol className='center'><ClipPhoto /></MDBCol>
             </MDBRow>
           </MDBContainer >
         </div>;

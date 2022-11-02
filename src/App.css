@@ -39,7 +39,7 @@
 }
 
 .image-background {
-  background-image: url('./images/portfolio_screen_backdrop.jpg');
+  /* background-image: url('./images/portfolio_screen_backdrop.jpg'); */
 	background-size: 100%;
 	background-repeat: repeat;
 	background-position: center;
