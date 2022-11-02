@@ -3,18 +3,11 @@ import '../../App.css';
 
 export default function About() {
   
-  const aboutStyle = {
-    display: "flex",
-    color: "black",
-    fontFamily: 'helvetica',
-    alignText: "text-justify"
-  };
-
   return (
     <div className='pt-2 mt-2'>
       <h1>About Page</h1><hr></hr>
       <p className='Text'>
-      <a className='tab'></a>I am computer programmer with skills from many different operating 
+      <p className='tab'></p>I am computer programmer with skills from many different operating 
       system enviornments. I have a vast knowledge of programming languages 
       and expertise in several different software tools along with operating 
       systems. For 18 years I worked in the IBM mainframe enviornment and 

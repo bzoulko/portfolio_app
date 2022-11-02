@@ -24,26 +24,26 @@ export default function Contact() {
       <h1>Contact Page</h1><hr></hr>
       <ul>
         <li className='text' style={linkStyle}>
-          <a style={linkStyle}>Phone: </a>
+          <p style={linkStyle}>Phone: </p>
           <a style={hrefStyle} href="Tel: 1-909-835-8703">1 (909) 835-8703</a>
         </li>
       </ul>
       <ul>
         <li className='text' style={linkStyle}>
-          <a style={linkStyle}>Email: </a>
+          <p style={linkStyle}>Email: </p>
           <a style={hrefStyle} href="mailto:bzoulko@gmail.com">bzoulko@gmail.com</a>
         </li>
       </ul>
       <ul>
         <li className='text' style={linkStyle}>
-          <a style={linkStyle}>LinkedIn: </a>
-          <a style={hrefStyle} href="https://www.linkedin.com/in/brian-zoulko-753810240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc3GDST0qT3G4bQVo5QVuzw%3D%3D" target="_blank">LinkedIn</a>
+          <p style={linkStyle}>LinkedIn: </p>
+          <a style={hrefStyle} rel="noreferrer" href="https://www.linkedin.com/in/brian-zoulko-753810240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc3GDST0qT3G4bQVo5QVuzw%3D%3D" target="_blank">LinkedIn</a>
         </li>        
       </ul>
       <ul>
         <li className='text' style={linkStyle}>
-          <a style={linkStyle}>Indeed: </a>
-          <a style={hrefStyle} href="https://indeed.com" target="_blank">Indeed</a>
+          <p style={linkStyle}>Indeed: </p>
+          <a style={hrefStyle} rel="noreferrer" href="https://indeed.com" target="_blank">Indeed</a>
         </li>        
       </ul>
       

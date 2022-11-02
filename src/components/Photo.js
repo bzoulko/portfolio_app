@@ -3,7 +3,7 @@ import developerImage from "../images/IMG_20220827_155309.jpg";
 
 export default function Photo() {
     return (
-        <a>
+        <div>
             <img className='mt-3'
                 style={{
                     width: "65%",
@@ -15,6 +15,6 @@ export default function Photo() {
                 src={developerImage}
                 alt="Programmer: Brian Zoulko">
             </img>
-        </a>
+        </div>
     );
 };

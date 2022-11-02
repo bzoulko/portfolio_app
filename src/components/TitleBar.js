@@ -1,5 +1,4 @@
 import React from 'react';
-import ClipPhoto from './ClipPhoto';
 import '../App.css';
 
 export default function Navbar() {
@@ -29,8 +28,8 @@ export default function Navbar() {
       {/* // Add AUTHOR to left side of navigation bar. */}
       <div className="container-fluid">
         <div className='navbar-brand nav-text mx-2 card' style={authorStyle}>
-          <a>Brian Zoulko</a>
-          <a style={developerStyle}>Web / Software Developer</a>
+          <h6>Brian Zoulko</h6>
+          <h6 style={developerStyle}>Web / Software Developer</h6>
         </div>
       </div>
       

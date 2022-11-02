@@ -3,7 +3,7 @@ import developerImage from "../images/BriansWorking.gif";
 
 export default function ClipPhoto() {
     return (
-        <a>
+        <div>
             <img className='mt-0'
                 style={{
                     width: "100%",
@@ -18,6 +18,6 @@ export default function ClipPhoto() {
                 src={developerImage}
                 alt="Programmer: Brian Zoulko">
             </img>
-        </a>
+        </div>
     );
 };

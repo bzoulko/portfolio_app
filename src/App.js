@@ -26,7 +26,7 @@ function App() {
   useEffect(() => {
     localStorage.setItem('theme', theme);
     document.body.className = theme;
-    if (bLoading && theme != 'light') {
+    if (bLoading && theme !== 'light') {
       const toggleBtn = document.getElementById("toggle-btn");
       toggleBtn.setAttribute('checked', 'true');
     }

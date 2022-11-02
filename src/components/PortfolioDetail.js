@@ -44,10 +44,10 @@ export default function PortfolioDetail() {
                 <img src={weatherDash} alt="Weather Dashboard" style={{ width: "80%" }}></img>
                 <ul>
                     <li>
-                        <a style={hrefStyle} href="https://bzoulko.github.io/module6_challenge/" target="_blank">Deployed URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://bzoulko.github.io/module6_challenge/" target="_blank">Deployed URL</a>
                     </li>
                     <li>
-                        <a style={hrefStyle} href="https://github.com/bzoulko/module6_challenge.git" target="_blank">GitHub URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://github.com/bzoulko/module6_challenge.git" target="_blank">GitHub URL</a>
                     </li>
                 </ul>
             </div><hr></hr>
@@ -59,10 +59,10 @@ export default function PortfolioDetail() {
                 <img src={investWatch3} alt="Investment Watchlist pg-3" style={{ width: "80%" }}></img>
                 <ul>
                     <li>
-                        <a style={hrefStyle} href="https://jsp220.github.io/Investment-Watchlist/" target="_blank">Deployed URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://jsp220.github.io/Investment-Watchlist/" target="_blank">Deployed URL</a>
                     </li>
                     <li>
-                        <a style={hrefStyle} href="https://github.com/jsp220/Investment-Watchlist.git" target="_blank">GitHub URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://github.com/jsp220/Investment-Watchlist.git" target="_blank">GitHub URL</a>
                     </li>
                 </ul>
             </div><hr></hr>
@@ -76,10 +76,10 @@ export default function PortfolioDetail() {
                 <img src={corgisMess5} alt="Corgis Messenger pg-5" style={{ width: "80%" }}></img>
                 <ul>
                     <li>
-                        <a style={hrefStyle} href="https://corgi-messenger.herokuapp.com/" target="_blank">Deployed URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://corgi-messenger.herokuapp.com/" target="_blank">Deployed URL</a>
                     </li>
                     <li>
-                        <a style={hrefStyle} href="https://github.com/ricky8221/chat-project.git" target="_blank">GitHub URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://github.com/ricky8221/chat-project.git" target="_blank">GitHub URL</a>
                     </li>
                 </ul>
             </div><hr></hr>
@@ -92,10 +92,10 @@ export default function PortfolioDetail() {
                 <img src={noteTaker4} alt="Note Taker pg-4" style={{ width: "80%" }}></img>
                 <ul>
                     <li>
-                        <a style={hrefStyle} href="https://vast-shore-80072.herokuapp.com/" target="_blank">Deployed URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://vast-shore-80072.herokuapp.com/" target="_blank">Deployed URL</a>
                     </li>
                     <li>
-                        <a style={hrefStyle} href="https://github.com/bzoulko/module11_challenge.git" target="_blank">GitHub URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://github.com/bzoulko/module11_challenge.git" target="_blank">GitHub URL</a>
                     </li>
                 </ul>
             </div><hr></hr>
@@ -105,10 +105,10 @@ export default function PortfolioDetail() {
                 <img src={pwaEditor} alt="PWA - Text Editor" style={{ width: "80%" }}></img>
                 <ul>
                     <li>
-                        <a style={hrefStyle} href="https://aqueous-beach-61462.herokuapp.com/" target="_blank">Deployed URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://aqueous-beach-61462.herokuapp.com/" target="_blank">Deployed URL</a>
                     </li>
                     <li>
-                        <a style={hrefStyle} href="https://github.com/bzoulko/module19_challenge.git" target="_blank">GitHub URL</a>
+                        <a style={hrefStyle} rel="noreferrer" href="https://github.com/bzoulko/module19_challenge.git" target="_blank">GitHub URL</a>
                     </li>
                 </ul>
             </div><hr></hr>
