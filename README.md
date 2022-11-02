@@ -1,6 +1,3 @@
-# portfolio_app
-React Challenge: React Portfolio
-
 # Module 20 Challenge Project - REACT Portfolio
 This program is a great example of what I can do as a web developer, it showcases my ability to use REACT and an abundant of other methods and API's to produce something for myself. This is my protfolio, which has several module challenges on display. You can see my resume, work challenge history and coding abilities by clicking links from each work listed to its GitHub or Deployment location. Please take time and review my work ethics and resume.
 
