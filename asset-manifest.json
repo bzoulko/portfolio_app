@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.f2636f7c.css",
-    "main.js": "/react-gh-pages/static/js/main.29a33c0e.js",
+    "main.js": "/react-gh-pages/static/js/main.c30bd87a.js",
     "static/js/787.30237536.chunk.js": "/react-gh-pages/static/js/787.30237536.chunk.js",
     "static/media/InvestmentWatchlist-p1.png": "/react-gh-pages/static/media/InvestmentWatchlist-p1.2fe6005f2bec4283d2be.png",
     "static/media/BriansWorking.gif": "/react-gh-pages/static/media/BriansWorking.f4d9b49070ddfbf74a27.gif",
@@ -23,11 +23,11 @@
     "static/media/NoteTaker-p4.png": "/react-gh-pages/static/media/NoteTaker-p4.81dac92df09dc9681f07.png",
     "index.html": "/react-gh-pages/index.html",
     "main.f2636f7c.css.map": "/react-gh-pages/static/css/main.f2636f7c.css.map",
-    "main.29a33c0e.js.map": "/react-gh-pages/static/js/main.29a33c0e.js.map",
+    "main.c30bd87a.js.map": "/react-gh-pages/static/js/main.c30bd87a.js.map",
     "787.30237536.chunk.js.map": "/react-gh-pages/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2636f7c.css",
-    "static/js/main.29a33c0e.js"
+    "static/js/main.c30bd87a.js"
   ]
 }
